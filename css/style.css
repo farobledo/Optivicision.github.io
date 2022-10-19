@@ -257,8 +257,8 @@ textarea.input {
 }
 
 .input-radio input[type="radio"]:checked+label span, .input-checkbox input[type="checkbox"]:checked+label span {
-  background-color: #d10000;
-  border-color: #d10000;
+  background-color: #3fd100;
+  border-color: #31d100;
 }
 
 .input-radio input[type="radio"]:checked+label span:after {
@@ -431,11 +431,11 @@ textarea.input {
 }
 
 .header-links li a:hover {
-  color: #D10024;
+  color: #0ad100;
 }
 
 .header-links li i {
-  color: #D10024;
+  color: #11d100;
   margin-right: 5px;
 }
 
